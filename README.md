@@ -1,4 +1,18 @@
-# 💫 About Me<br><br>Hi, I'm Divyansha 👋<br><br>I'm a Computer Science (AI & ML) undergraduate who enjoys building products that solve real problems. I spend most of my time building full-stack web applications, experimenting with AI, and contributing to open source. I enjoy learning by building—whether that's through side projects, hackathons, or community contributions.<br><br>- 🔭 Currently building AI-powered applications and contributing to Open Source<br>- 🌱 Learning Go, FastAPI, LLMs, AI Agents, and System Design<br>- 👯 Open to collaborating on Full-Stack, AI/ML, and Open Source projects<br>- 💬 Ask me about React, TypeScript, JavaScript, Python, REST APIs, and Frontend Development<br>- 🎯 Goal: Build products that people genuinely enjoy using while growing into a strong software engineer<br><br>## 🚀 Current Focus<br><br>- Contributing consistently to Open Source<br>- Building AI-powered developer tools and web applications<br>- Exploring LLMs, AI Agents, and modern backend development<br>- Looking for opportunities to learn, build, and create real impact
+# 💫 About Me
+
+Hi, I'm Divyansha 👋<br><br>
+
+I'm a Computer Science (AI & ML) undergraduate who loves turning ideas into real products. Whether it's building AI-powered applications, developing full-stack web projects, contributing to open source, or participating in hackathons, I enjoy creating things that solve real problems and teach me something new along the way.<br><br>
+
+I believe the best way to learn is by building, breaking, fixing, and repeating. That's why you'll usually find me experimenting with new technologies, exploring developer tools, or working on projects outside the classroom.<br><br>
+
+I'm particularly interested in Full-Stack Development, AI applications, developer tools, and startups where I can take ownership, learn quickly, and build products that make an impact.<br><br>
+
+- 🚀 Currently contributing to Open Source and building AI-powered applications
+- 🌱 Learning Go, System Design, Backend Development, and LLM-based applications
+- 🤝 Always open to collaborating on interesting projects and meeting builders
+- 💬 Ask me about React, JavaScript, TypeScript, Python, Frontend Development, or getting started with Open Source
+- 🎯 Long-term goal: Build products that solve meaningful problems while growing into a software engineer who enjoys both building and learning every day.
 
 
 ## 🌐 Socials:
